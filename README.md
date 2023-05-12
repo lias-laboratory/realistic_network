@@ -2,7 +2,7 @@
 
 This repository is related to a complete model of the realistic network given by a distribution system operator.
  
-The project is supported by [Labcom @LIENOR](https://labcom-alienor.ensma.fr/) and Nouvelle-Aquitaine region.
+The project is supported by [Labcom @LIENOR](https://labcom-alienor.ensma.fr/) and [Nouvelle-Aquitaine administrative region (France)](https://www.nouvelle-aquitaine.fr/).
 
 This network includes the following parameter tables:
  * bus (2588 elements)
@@ -28,7 +28,7 @@ The following elements in 'switch' table with id =='jdb',  'ARR411' , 'ARR413', 
 
 ## Download dataset
 
-The dataset is found on the following link : 
+The dataset is found on the following link: [realistic_network.p](https://github.com/lias-laboratory/realistic_network/releases/download/V1.0/realistic_network.p)
 
 ## Software licence agreement
 
