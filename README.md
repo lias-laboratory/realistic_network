@@ -2,7 +2,7 @@
 
 This repository is related to a complete model of the realistic network given by a distribution system operator.
  
-The project is supported by [Labcom @LIENOR)](https://labcom-alienor.ensma.fr/) and Nouvelle-Aquitaine region.
+The project is supported by [Labcom @LIENOR](https://labcom-alienor.ensma.fr/) and Nouvelle-Aquitaine region.
 
 This network includes the following parameter tables:
  * bus (2588 elements)
