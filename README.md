@@ -38,6 +38,6 @@ Details the license agreement of Realistic_Network: [LICENSE](LICENSE)
 
 * [Nour KARNIB (core contributor)](https://www.lias-lab.fr/members/nourkarnib/)
 * [Antoine BERTOUT](https://www.lias-lab.fr/members/antoinebertout/)
-* [Jean-Paul Gaubert](https://www.lias-lab.fr/members/jeanpaulgaubert/)
+* [Jean-Paul GAUBERT](https://www.lias-lab.fr/members/jeanpaulgaubert/)
 * [Aghyles GRAINE](https://www.lias-lab.fr/members/aghylesgraine/)
 * [Emmanuel GROLLEAU](https://www.lias-lab.fr/members/emmanuelgrolleau/)
