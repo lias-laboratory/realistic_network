@@ -1,8 +1,8 @@
 # Realistic Network
 
 This repository is related to a complete model of the realistic network given by a distribution system operator.
-
-TO COMPLETE: discuss about the funding project (ANR, Labcom)
+ 
+The project is supported by [Labcom @LIENOR)](https://labcom-alienor.ensma.fr/) and Nouvelle-Aquitaine region.
 
 This network includes the following parameter tables:
  * bus (2588 elements)
@@ -28,7 +28,7 @@ The following elements in 'switch' table with id =='jdb',  'ARR411' , 'ARR413', 
 
 ## Download dataset
 
-TO COMPLETE: sentense to explain where to find the dataset with the link.
+The dataset is found on the following link : 
 
 ## Software licence agreement
 
@@ -38,4 +38,6 @@ Details the license agreement of Realistic_Network: [LICENSE](LICENSE)
 
 * [Nour KARNIB (core contributor)](https://www.lias-lab.fr/members/nourkarnib/)
 * [Antoine BERTOUT](https://www.lias-lab.fr/members/antoinebertout/)
+* [Jean-Paul Gaubert](https://www.lias-lab.fr/fr/members/jeanpaulgaubert/)
+* [Aghyles GRAINE](https://www.lias-lab.fr/fr/members/aghylesgraine/)
 * [Emmanuel GROLLEAU](https://www.lias-lab.fr/members/emmanuelgrolleau/)
