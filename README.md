@@ -21,7 +21,7 @@ The following elements in 'switch' table named as 'jdb',  'ARR411' , 'ARR413', '
 
 The dataset is found on the following link: [realistic_network.p](https://github.com/lias-laboratory/realistic_network/releases/download/V1.0/realistic_network.p)
 
-## Software licence agreement
+## Software license agreement
 
 Details the license agreement of Realistic_Network: [LICENSE](LICENSE)
 
